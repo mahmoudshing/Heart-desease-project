@@ -5,7 +5,7 @@
 * Ahmed Yasser Abd elmaqsoud  
 * Maher Sayed Abdelshahid
 * Mohammed Al-Sayed Abdullah
-* Mahmoud Abdelmegeed Abdelkader
+* [Mahmoud Abdelmegeed Abdelkader](https://github.com/mahmoudshing)
 * Ashraf Mohamed Abd-Elwahab
 
 ---
